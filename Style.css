@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    font-size: 42px;
+    font-style: oblique;
+}
+.Box{
+    position: relative;
+    background-color: black;
+    max-width: 200px;
+}
