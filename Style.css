@@ -10,8 +10,7 @@
     position: absolute;
     top: 5%;
     bottom: 96%;
-    left: 10%;
-    right: 10%;
+    text-align: center;
 }
 .blog-desc {
     position: absolute;
