@@ -17,6 +17,14 @@ h1 {
     left: 30%;
 }
 .blog-desc {
+    position: absolute;
+    top: 15%;
+    left: 10%;
+}
+.blog-link {
+    position: absolute;
+    top: 85%;
+    left: 25%;
 }
 .blog-img {
     position: absolute;
